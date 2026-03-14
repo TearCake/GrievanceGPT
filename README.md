@@ -27,6 +27,9 @@ This is a true demonstration of Agentic AI—planning, reasoning, and executing 
 
 ---
 
+## Demo
+https://github.com/user-attachments/assets/cc6fc49b-c406-4187-93a7-3b2da73b5772
+
 ## 🛠️ Tech Stack
 
 ### Frontend
